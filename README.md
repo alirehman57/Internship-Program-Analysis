@@ -22,7 +22,7 @@ This project was completed as part of my internship at Internee.pk. The goal was
 * Longer internships consistently produce stronger performers.
 * Gender and internship type (Remote vs Onsite) show negligible impact on outcomes
 * Completion rates remained stable across all 5 cohort years (62–66%)
-
+ 
 ## 📂 Project Structure
 
 <img width="457" height="305" alt="image" src="https://github.com/user-attachments/assets/d0d8060c-da5d-45ca-ae31-b6605f6fe6dc" />
