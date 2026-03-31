@@ -31,7 +31,7 @@ This project was completed as part of my internship at Internee.pk. The goal was
 ## Dashboard Preview
 
 * KPI cards — Total Interns, Avg Performance, Completion Rate, Dropout Rate.
-* Performance by Duration — Line chart showing score trends across program lengths.
+* Performance by Durationn   — Line chart showing score trends across program lengths.
 * Performance by Mentor Interaction — Bar chart comparing High / Medium / Low levels.
 * Completed Interns by Department — Horizontal bar chart.
 * Count by Status — Completed vs Dropped comparison.
