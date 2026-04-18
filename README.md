@@ -9,7 +9,7 @@ This project was completed as part of my internship at Internee.pk. The goal was
 
 * Understand what factors influence intern performance and completion.
 * Identify early warning signs of dropout behavior.
-* Provide actionable, data-driven recommendations for program improvement.
+* Provide actionable, data-driven recommendations for   program improvement.
   
 ## Dataset 
 
