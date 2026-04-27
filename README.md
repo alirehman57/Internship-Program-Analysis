@@ -17,7 +17,7 @@ This project was completed as part of my internship at Internee.pk. The goal was
 
 ## Key Findings
 
-* Overall completion rate: 64.4% — 3,220 completed, 1,780 dropped
+* Overall completion rate: 64.4% — 3,220  completed, 1,780 dropped
 * Dropped interns averaged only 58.5% attendance vs 89.0% for completers.
 * Longer internships consistently produce stronger performers.
 * Gender and internship type (Remote vs Onsite) show negligible impact on outcomes
