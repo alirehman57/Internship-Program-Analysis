@@ -21,7 +21,7 @@ This project was completed as part of my internship at Internee.pk. The goal was
 * Dropped interns averaged only 58.5% attendance vs 89.0% for completers.
 * Longer internships consistently produce stronger performers.
 * Gender and internship type (Remote vs Onsite) show negligible impact on outcomes
-* Completion rates remained stable across all 5 cohort years (62–66%)
+* Completion rates remained stable across all 5 cohort years(62–66%)
  
 ## 📂 Project Structure
 
