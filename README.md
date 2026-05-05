@@ -3,7 +3,7 @@ A comprehensive data analytics project examining 5,000 intern records across 5 y
 
 # 📌 Project Overview
 
-This project was completed as part of my internship at Internee.pk. The goal was to perform an end-to-end analysis of the organization's internship program data — identifying performance trends, dropout risk factors, and departmental insights to help improve the program's effectiveness.
+This project was  completed as part of my internship at Internee.pk. The goal was to perform an end-to-end analysis of the organization's internship program data — identifying performance trends, dropout risk factors, and departmental insights to help improve the program's effectiveness.
 
 ## Objectives:
 
